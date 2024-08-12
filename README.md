@@ -24,6 +24,10 @@
   </a>
 </div>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <div align="center">
   <h3>📚 Repositórios 📚</h3>
   
