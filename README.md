@@ -3,6 +3,17 @@
 </div>
 
 <div align="center">
+  <h3>🤞 Domínio 🤞</h3>
+</div>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py&theme=dark" width="300" height="150" />
+  </a>
+</div>
+
+
+<div align="center">
   <a href="https://github.com/SapoSopa/Github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=SapoSopa&show_icons=true&theme=moltack&locale=pt-br&card_width=600&count_private=true" width="600" height="200" />
   </a>
@@ -13,20 +24,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SapoSopa&theme=moltack&layout=donut-vertical&locale=pt-br" width="600" height="700" />
   </a>
 </div>
-
-<div align="center">
-  <h3>🤞 Domínio 🤞</h3>
-</div>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py&theme=dark" width="300" height="150" />
-  </a>
-</div>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 <div align="center">
   <h3>📚 Repositórios 📚</h3>
