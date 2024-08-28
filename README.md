@@ -39,7 +39,7 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/SapoSopa/HardSopa">
+        <a href="https://github.com/SapoSopa/JokenIPo">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=SapoSopa&repo=JokenIPo&theme=moltack&show_owner=true" width="300" height="150" />
         </a>
       </td>
@@ -51,19 +51,19 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/SapoSopa/JokenIPo">
+        <a href="https://github.com/SapoSopa/HardSopa">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=SapoSopa&repo=HardSopa&theme=moltack&show_owner=true" width="300" height="150" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/SapoSopa/StatisticSopa">
+        <a href="https://github.com/SapoSopa/AlgoSopa">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=SapoSopa&repo=AlgoSopa&theme=moltack&show_owner=true" width="300" height="150" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/SapoSopa/HardSopa">
+        <a href="https://github.com/SapoSopa/DigiSopa">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=SapoSopa&repo=DigiSopa&theme=moltack&show_owner=true" width="300" height="150" />
         </a>
       </td>
@@ -73,7 +73,7 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/SapoSopa/DigiSopa">
+        <a href="https://github.com/SapoSopa/Github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=SapoSopa&repo=Github-readme-stats&theme=moltack&show_owner=true" width="300" height="150" />
         </a>
       </td>
